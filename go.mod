@@ -1,4 +1,4 @@
-module bitbucket.org/exyzzy/hershey
+module github.com/exyzzy/hershey
 
 go 1.16
 
